@@ -20,6 +20,6 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
-  - visi-on
+  - vision
   - irix-os
 ---

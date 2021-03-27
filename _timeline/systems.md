@@ -26,7 +26,6 @@ events:
   - digital-desk
   - windows95
   - lifestreams
-  - vision
+  - vision 
   - irix-os
 ---
-
